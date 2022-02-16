@@ -8,7 +8,7 @@
 
 ### Computer Science Student at [UFBA](http://www.ufba.br)
 
-### Future Back-end Developer :p
+### Back end developer at [InfoJr UFBA](https://infojr.com.br)
 
 ## Tools and Tech
 
