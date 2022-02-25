@@ -15,12 +15,11 @@
 ### Computer Science Student at [UFBA](http://www.ufba.br)
 
 ### Back end developer at [InfoJr UFBA](https://infojr.com.br)
-
-## Tools and Tech
  
 </div>
+## Tools and Tech
   
-<div align="center">
+<div>
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" hieght="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
@@ -35,7 +34,7 @@
 </div>
 
 
-<div align="center">
+<div>
  
 ## Currently studying more
 
