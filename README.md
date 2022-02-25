@@ -17,6 +17,7 @@
 ### Back end developer at [InfoJr UFBA](https://infojr.com.br)
  
 </div>
+
 ## Tools and Tech
   
 <div>
@@ -44,7 +45,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 </div>
 
-<div align="center">
+<div>
  
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDSL&layout=compact&langs_count=7&theme=dark"/>
