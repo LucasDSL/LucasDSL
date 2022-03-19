@@ -1,53 +1,52 @@
-<div align="center">
- 
-# Lucas Lima
+## Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> , I'm Lucas Lima
+- Computer Science Student at [UFBA](https://ufba.br/) (portuguese)
+- Back-End developer at [InfoJr UFBA](https://infojr.com.br) (portuguese)
+- Studying Back-End tech with typescript and nodejs 
+- Talk to me about Back-End 😊
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/LucasDSL)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/lucasdsl2002/)
-<a href="https://mailto:lucas99cursos@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="70" height="20"> </a>
- 
-</div>
+## 🛠 &nbsp;Tech Stack
 
 <div align="center">
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Node.js](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![NestJs](https://img.shields.io/badge/-NestJs-05122A?style=flat&logo=nestjs)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb)&nbsp;
+![Sequelize](https://img.shields.io/badge/-Sequelize-05122A?style=flat&logo=sequelize)&nbsp;
+![TypeORM](https://img.shields.io/badge/-TypeORM-05122A?style=flat&logo=typeorm)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia)&nbsp;
  
-## About me
-
-### Computer Science Student at [UFBA](http://www.ufba.br)
-
-### Back end developer at [InfoJr UFBA](https://infojr.com.br)
+ </div>
  
-</div>
+ ## Links
 
-## Tools and Tech
-  
-<div>
+<p align="center" style="background:yellow">
+<a href="https://www.linkedin.com/in/lucasdsl2002/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-lucasdsl2002-05122A?style=flat&logo=linkedin" alt="linkedin"/> </a>
  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" hieght="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</div>
-
-
-<div>
+<a href="https://github.com/LucasDSL" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-LucasDSL-05122A?style=flat&logo=github" alt="github"/> </a>
  
-## Currently studying more
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</div>
-
-<div>
  
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDSL&layout=compact&langs_count=7&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasDSL&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+<a href="https://cursos.alura.com.br/user/lucasdslima2002" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-lucas@alura-05122A?style=flat&" alt="alura"/> </a>
+</p>
+
+
+## ⚙️ &nbsp;GitHub Stats
+
+<p align="left">
+<img width="450rem" src="https://github-readme-stats.vercel.app/api?username=lucasdsl&show_icons=true&theme=vision-friendly-dark" alt="lucasdsl stats"/>
+<img width="380rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdsl&layout=compact&theme=vision-friendly-dark" alt="lucasdsl languages"/>
+</p>
