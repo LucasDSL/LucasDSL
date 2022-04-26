@@ -1,7 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> , I'm Lucas Lima
 - Computer Science Student [@UFBA](https://ufba.br/) (portuguese)
 - Back-End developer [@InfoJr UFBA](https://infojr.com.br) (portuguese)
-- Studying Back-End tech with typescript and nodejs 
 - Junior Fullstack developer [@SaudeVianet](https://saudevianet.com.br/) (portuguese)
 
 ## 🛠 &nbsp;Tech Stack
