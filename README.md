@@ -2,6 +2,7 @@
 - Computer Science Student [@UFBA](https://ufba.br/) (portuguese)
 - Back-End developer [@InfoJr UFBA](https://infojr.com.br) (portuguese)
 - Junior Fullstack developer [@SaudeVianet](https://saudevianet.com.br/) (portuguese)
+- Fun fact: I'm very interested in microservices and distributed systems
 
 ## 🛠 &nbsp;Tech Stack
 
