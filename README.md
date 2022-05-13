@@ -1,7 +1,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> , I'm Lucas Lima
 - Computer Science Student [@UFBA](https://ufba.br/) (portuguese)
 - Back-End developer [@InfoJr UFBA](https://infojr.com.br) (portuguese)
-- Junior Fullstack developer [@SaudeVianet](https://saudevianet.com.br/) (portuguese)
+- Back-End developer [@mobapps](https://mobapps.com.br/)
 - Fun fact: I'm very interested in microservices and distributed systems
 
 ## 🛠 &nbsp;Tech Stack
