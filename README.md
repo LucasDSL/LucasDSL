@@ -2,7 +2,7 @@
 - Computer Science Student [@UFBA](https://ufba.br/) (portuguese)
 - Back-End developer [@InfoJr UFBA](https://infojr.com.br) (portuguese)
 - Back-End developer [@mobapps](https://mobapps.com.br/)
-- Curious fact: I'm very interested in microservices and distributed systems
+- Curious fact: I'm very interested in microservices and devops culture
 
 ## 🛠 &nbsp;Tech Stack
 
