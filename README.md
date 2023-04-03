@@ -37,7 +37,7 @@
 
 ----
 ### Currently studying (Let's talk about it!)
-- Clean Code 
-- Clean Architecture
-- CI/CD 
-- Test Driven Development
+- Data Structures 
+- Algorithms 
+- C++ 
+- Competitive Programming
