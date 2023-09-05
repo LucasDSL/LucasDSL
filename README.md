@@ -5,7 +5,5 @@
 >
 ----
 ### Currently up to
-- Computer networks
-- Magic behind 5G
-- RUST :crab:
-- How to create knowledge
+- Studying for college
+- Reading more engineering blogs than I should
